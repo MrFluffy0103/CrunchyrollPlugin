@@ -1,0 +1,13 @@
+E:\JelllyfinTemplates\CrunchyrollPlugin\obj\Debug\net9.0\CrunchyrollPlugin.csproj.AssemblyReference.cache
+E:\JelllyfinTemplates\CrunchyrollPlugin\obj\Debug\net9.0\CrunchyrollPlugin.GeneratedMSBuildEditorConfig.editorconfig
+E:\JelllyfinTemplates\CrunchyrollPlugin\obj\Debug\net9.0\CrunchyrollPlugin.AssemblyInfoInputs.cache
+E:\JelllyfinTemplates\CrunchyrollPlugin\obj\Debug\net9.0\CrunchyrollPlugin.AssemblyInfo.cs
+E:\JelllyfinTemplates\CrunchyrollPlugin\obj\Debug\net9.0\CrunchyrollPlugin.csproj.CoreCompileInputs.cache
+E:\JelllyfinTemplates\CrunchyrollPlugin\bin\Debug\net9.0\CrunchyrollPlugin.deps.json
+E:\JelllyfinTemplates\CrunchyrollPlugin\bin\Debug\net9.0\CrunchyrollPlugin.dll
+E:\JelllyfinTemplates\CrunchyrollPlugin\bin\Debug\net9.0\CrunchyrollPlugin.pdb
+E:\JelllyfinTemplates\CrunchyrollPlugin\obj\Debug\net9.0\CrunchyrollPlugin.dll
+E:\JelllyfinTemplates\CrunchyrollPlugin\obj\Debug\net9.0\refint\CrunchyrollPlugin.dll
+E:\JelllyfinTemplates\CrunchyrollPlugin\obj\Debug\net9.0\CrunchyrollPlugin.pdb
+E:\JelllyfinTemplates\CrunchyrollPlugin\obj\Debug\net9.0\ref\CrunchyrollPlugin.dll
+E:\JelllyfinTemplates\CrunchyrollPlugin\obj\Debug\net9.0\CrunchyrollPlugin.sourcelink.json

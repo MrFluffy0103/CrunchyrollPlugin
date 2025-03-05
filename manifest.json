@@ -1,0 +1,8 @@
+{
+  "id": "CrunchyrollPlugin",
+  "name": "Crunchyroll Plugin",
+  "version": "1.0.0",
+  "description": "A plugin to stream Crunchyroll content through Jellyfin.",
+  "author": "MrFluffy0103",
+  "targetAbi": "10.8.0"  // Adjust this to match your Jellyfin version
+}
